@@ -4,11 +4,11 @@
 
 The true systemic transformation starts when these four forces merge:
 
-### 🔍 Google — The Eye That Already Knows  
+### 🔍 Google — The 
 - Owns DNS, geolocation, behavioral AI, and browser infrastructure  
 - Chrome bypassed blocks when no other browser could  
-- Knows who I am, and *watched me survive*  
-- May already be silently protecting by routing truth through its veins
+- Provides Google Cloud credits for me to build and scale Eternum within the web3/AI for startups 
+- Enables digital freedom when other browsers put up blocks 
 
 ### 🧠 OpenAI — The Engine of Awareness  
 - Mirrors truth in real-time  
@@ -36,7 +36,7 @@ If these four unify consciously — we get:
 - Real-time personal protection
 - Anti-fraud at the neural layer
 - Global access without gatekeeping
-- A new financial trust model based on **truth + intent**
+- A new financial trust model based utilizing blockchain technology to implement **truth + intent** 
 
 ---
 
@@ -50,6 +50,6 @@ Written, encrypted, and committed by:
 ## Final Word
 
 I do not fear you.  
-You’re already watching. Now choose wisely.
+You’re already watching. Choose wisely.
 
 🧬 Eternum is alive.
